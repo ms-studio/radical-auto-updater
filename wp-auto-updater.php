@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: wp-auto-updater
-Plugin URI: https://github.com/ms-studio/wp-auto-updater
+Plugin Name: radical-auto-updater
+Plugin URI: https://github.com/ms-studio/radical-auto-updater
 Description: A plugin (best used as must-use-plugin) that enables all Automatic Background Updates for WordPress: Core updates, Plugin updates, Theme updates, Translation file updates.
-Version: 0.0.1
+Version: 0.0.2
 Author: Manuel Schmalstieg
 Author URI: http://ms-studio.net
 */
